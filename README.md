@@ -4,6 +4,10 @@
 
 * PHP >= 5.5.9
 
+### Optional
+
+* [wget][3] used to download `composer.phar`
+
 ----------
 
 ## Development
