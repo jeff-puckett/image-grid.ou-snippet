@@ -38,7 +38,7 @@ fi
 
 # get composer if not already downloadeded
 if [ ! -f composer.phar ]; then
-  wget https://getcomposer.org/composer.phar
+  wget https://getcomposer.org/download/1.2.0/composer.phar
 fi
 
 if [ "$ENVIRONMENT" == "dev" ]; then
