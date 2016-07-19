@@ -32,7 +32,7 @@ project_root=$(pwd)
 
 # get composer if not already downloadeded
 if [ ! -f composer.phar ]; then
-  wget https://getcomposer.org/download/1.1.2/composer.phar
+  wget https://getcomposer.org/composer.phar
 fi
 
 if [ "$ENVIRONMENT" == "dev" ]; then
