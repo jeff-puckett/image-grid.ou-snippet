@@ -3,6 +3,5 @@
         "phpunit/phpunit": "^4.8"
     },
     "require": {
-        "jeff-puckett/mysql-dtp": "^1.2"
     }
 }

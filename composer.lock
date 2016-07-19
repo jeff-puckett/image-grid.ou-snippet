@@ -4,29 +4,9 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "26ed0b84750498d3499a67d43f64f286",
-    "content-hash": "4a92fa538e26fca8b2ba74dab891f72a",
-    "packages": [
-        {
-            "name": "jeff-puckett/mysql-dtp",
-            "version": "1.2.0",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/jeff-puckett/mysql-dtp.git",
-                "reference": "0b8443b1c9441356c7dbde07f2685cf1a8233b3f"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/jeff-puckett/mysql-dtp/zipball/0b8443b1c9441356c7dbde07f2685cf1a8233b3f",
-                "reference": "0b8443b1c9441356c7dbde07f2685cf1a8233b3f",
-                "shasum": ""
-            },
-            "type": "library",
-            "notification-url": "https://packagist.org/downloads/",
-            "description": "Bash scripts to generate MySQL environments for dev/test/prod and execute a list of SQL scripts.",
-            "time": "2016-07-17 19:14:04"
-        }
-    ],
+    "hash": "fe92f8c6891bd82cf035bf28e1d8ec81",
+    "content-hash": "c43714538b859b9dd805fb9688db6089",
+    "packages": [],
     "packages-dev": [
         {
             "name": "doctrine/instantiator",
