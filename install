@@ -1,4 +1,5 @@
 #!/bin/bash
+PROJECT_NAME=''
 
 # stop script on error
 set -e
@@ -26,9 +27,14 @@ if [ -z "${ENVIRONMENT+x}" ]; then
   usage
 fi
 
-# move to working directory
-cd $( dirname "${BASH_SOURCE[0]}" )
-project_root=$(pwd)
+# get working working directory
+cd $(dirname "${BASH_SOURCE[0]}")
+project_root_dir="$(pwd)"
+
+# set project name if empty
+if [ -z "${PROJECT_NAME+x}" ]; then
+  PROJECT_NAME="$(basename "$project_root_dir")"
+fi
 
 # get composer if not already downloadeded
 if [ ! -f composer.phar ]; then
