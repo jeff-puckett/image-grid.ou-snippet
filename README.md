@@ -1,8 +1,12 @@
-This is a base template for a project using [PHPUnit][4] and [MySQL dev/test/prod][5] packages.
+IN DEVELOPMENT
+
+Create mobile responsive [Bootstrap][6] grids with centered images.
+
+TODO: [gadget][7] for [OmniUpdate Campus CMS][8]
 
 # Requirements
 
-* PHP >= 5.5.9
+* PHP >= 5.4
 
 The install script uses [wget][3] to download the dependency package manager [Composer v1.1.2][2].
 If you do not have [wget][3], then you will need to [manually download Composer][2]
@@ -39,5 +43,6 @@ The verbose flag will show more detailed output.
 [3]:https://www.gnu.org/software/wget/
 [4]:https://phpunit.de/
 [5]:https://github.com/jeff-puckett/mysql-dtp
-
-> Written with [StackEdit](https://stackedit.io/).
+[6]:http://getbootstrap.com/
+[7]:https://github.com/omniupdate/gadget-starter
+[8]:http://omniupdate.com/products/oucampus/
