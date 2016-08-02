@@ -3,10 +3,10 @@ IN DEVELOPMENT
 Create mobile responsive [Bootstrap grids][1] with centered images for [OmniUpdate Campus CMS][2].
 
 ## In Editor:  
-![snippet screenshot]()
+![snippet screenshot][3]
 
 ## Published Page:  
-![rendered screenshot]()
+![rendered screenshot][4]
 
 ## Getting Started
 * snippets are site-specific, so you will need to repeat this process for each site. 
@@ -28,3 +28,5 @@ Create mobile responsive [Bootstrap grids][1] with centered images for [OmniUpda
 
 [1]:http://getbootstrap.com/css/#grid
 [2]:http://omniupdate.com/products/oucampus/
+[3]:https://raw.githubusercontent.com/jeff-puckett/image-grid.ou-snippet/master/docs/screenshots/snippet.screenshot.png
+[4]:https://raw.githubusercontent.com/jeff-puckett/image-grid.ou-snippet/master/docs/screenshots/rendered.screenshot.gif
