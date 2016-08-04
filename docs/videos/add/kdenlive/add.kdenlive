@@ -452,8 +452,8 @@
   <property name="kdenlive:docproperties.rendertcoverlay">0</property>
   <property name="kdenlive:docproperties.rendertctype">0</property>
   <property name="kdenlive:docproperties.rendertwopass">0</property>
-  <property name="kdenlive:docproperties.renderurl">kdenlive/untitled.mp4</property>
-  <property name="kdenlive:docproperties.renderzone">1</property>
+  <property name="kdenlive:docproperties.renderurl">/var/www/localhost/image-grid.ou-snippet/docs/videos/add/add.mp4</property>
+  <property name="kdenlive:docproperties.renderzone">0</property>
   <property name="xml_retain">1</property>
   <entry out="498" producer="1" in="0"/>
   <entry out="637" producer="2" in="0"/>
