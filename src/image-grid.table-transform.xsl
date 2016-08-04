@@ -10,14 +10,17 @@
   exclude-result-prefixes="ou xsl xs fn ouc">
 
   <xsl:template match="table[@class='image-grid']" mode="copy">
+    <style>
+      .image-grid img {
+        margin: auto;
+      }
+    </style>
     <div class="row image-grid">
-
       <xsl:for-each select="tbody/tr[@class='layout']">
         <div class="col-md-3 col-sm-6 col-xs-12">
           <a href="{td[@class='image']/a/@href}" target="_blank"><img alt="{td[@class='image']/a/img/@alt}" class="img-responsive" src="{td[@class='image']/a/img/@src}"/></a>
         </div>
       </xsl:for-each>
-
     </div>
   </xsl:template>
 
