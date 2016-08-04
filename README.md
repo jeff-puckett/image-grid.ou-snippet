@@ -28,5 +28,5 @@ Create mobile responsive [Bootstrap grids][1] with centered images for [OmniUpda
 
 [1]:http://getbootstrap.com/css/#grid
 [2]:http://omniupdate.com/products/oucampus/
-[3]:https://raw.githubusercontent.com/jeff-puckett/image-grid.ou-snippet/master/docs/screenshots/snippet.screenshot.png
-[4]:https://raw.githubusercontent.com/jeff-puckett/image-grid.ou-snippet/master/docs/screenshots/rendered.screenshot.gif
+[3]:https://raw.githubusercontent.com/jeff-puckett/image-grid.ou-snippet/gh-pages/docs/screenshots/snippet.screenshot.png
+[4]:https://raw.githubusercontent.com/jeff-puckett/image-grid.ou-snippet/gh-pages/docs/screenshots/rendered.screenshot.gif
