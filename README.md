@@ -35,8 +35,8 @@ WCOB users can reference [helpdesk ticket 22431][7].
 
 [1]:http://getbootstrap.com/css/#grid
 [2]:http://omniupdate.com/products/oucampus/
-[3]:https://raw.githubusercontent.com/jeff-puckett/image-grid.ou-snippet/gh-pages/docs/screenshots/snippet.screenshot.png
-[4]:https://raw.githubusercontent.com/jeff-puckett/image-grid.ou-snippet/gh-pages/docs/screenshots/rendered.screenshot.gif
-[5]:https://jeff-puckett.github.io/image-grid.ou-snippet/
-[6]:https://github.com/jeff-puckett/image-grid.ou-snippet/issues
+[3]:https://raw.githubusercontent.com/jpuck/image-grid.ou-snippet/gh-pages/docs/screenshots/snippet.screenshot.png
+[4]:https://raw.githubusercontent.com/jpuck/image-grid.ou-snippet/gh-pages/docs/screenshots/rendered.screenshot.gif
+[5]:https://jpuck.github.io/image-grid.ou-snippet/
+[6]:https://github.com/jpuck/image-grid.ou-snippet/issues
 [7]:https://helpdesk.walton.uark.edu/userui/ticket.php?ID=22431
